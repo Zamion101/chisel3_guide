@@ -1,0 +1,3 @@
+https://backend.orbit.dtu.dk/ws/portalfiles/portal/200376461/chisel_book.pdf
+
+https://javadoc.io/static/edu.berkeley.cs/chisel3_2.12/3.2.1/Chisel/index.html
